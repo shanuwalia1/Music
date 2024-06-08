@@ -2,9 +2,6 @@
 
 >  A Music Player developed using JavaScript, CSS, and HTML. Users can click the Forward play, Backward play, Playlist loop and Shuffle music buttons to change the songs.
  
-## Live Demo
-
-[Live Demo Link](https://samirpaulb.github.io/music) :point_left:
 
 Landing Page:
 <a href="#" rel="Landing Page">![Landing Page](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/2.png)</a>
